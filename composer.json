@@ -1,0 +1,15 @@
+{
+    "name": "Jurgen/removeIrrelevantAnswers",
+    "description": "When using relevance in multiple choice questions, you may want to remove the irrelevant items instead of hiding or disabling them.",
+    "type": "limesurvey-plugin",
+    "homepage": "https://github.com/Jugen/LS-removeIrrelevantAnswers",
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Jurgen Doll",
+            "email": "jurgen@ivoryemr.co.za"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}

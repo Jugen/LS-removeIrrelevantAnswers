@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <metadata>
+        <name>removeIrrelevantAnswers</name>
+        <type>plugin</type>
+        <creationDate>2024-04-18</creationDate>
+        <lastUpdate>2024-04-21</lastUpdate>
+        <author>Jurgen Doll</author>
+        <version>1.0.0</version>
+        <license>GPL</license>
+        <description><![CDATA[Remove irrelevant subquestions instead of hiding or disabling.]]></description>
+    </metadata>
+    <compatibility>
+        <version>6</version>
+    </compatibility>
+    <updaters disabled="disabled"></updaters>
+</config>
